@@ -12,7 +12,7 @@ A lightweight Linux Security Module (LSM) for monitoring system calls and file a
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/3rab/kernel-security-module.git
+git clone https://github.com/3rabDev/kernel-security-module.git
 cd kernel-security-module
 make
 sudo make install
